@@ -1,0 +1,22 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.xcworkspace
+!*.xcworkspace
+*.xccheckout
+!*.xccheckout
+*.xcscmblueprint
+!*.xcscmblueprint
+*.xcuserstate
+!default.xcuserstate
+xcuserdata/
+
+# Swift Package Manager
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
