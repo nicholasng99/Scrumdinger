@@ -1,4 +1,5 @@
 # Xcode
+Secrets.xcconfig
 .DS_Store
 build/
 DerivedData/
